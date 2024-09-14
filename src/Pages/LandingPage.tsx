@@ -4,6 +4,7 @@ import Footer from "../Components/Footer/Footer"
 import Navigation from "../Components/Navbar/Navbar"
 import Projects from "../Components/Projects/Projects"
 import Skills from "../Components/Skills/Skills"
+import Testimonies from "../Components/Testimonies/Testimonies"
 
 
 const LandingPage = () => {
@@ -14,6 +15,7 @@ const LandingPage = () => {
         <Banner />
         <Skills />
         <Projects />
+        <Testimonies />
         <Contact />
         <Footer />
         </>

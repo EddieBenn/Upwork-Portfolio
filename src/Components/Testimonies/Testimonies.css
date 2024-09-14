@@ -1,0 +1,45 @@
+.testimonies {
+  padding: 0 0 50px 0;
+  position: relative;
+}
+
+.testimonies-bx {
+  background: #151515;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+}
+
+.testimonies h2 {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.testimony-card {
+  background: #2a2a2a; /* Slightly different from the section background */
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.testimony-card p {
+  color: #B8B8B8;
+}
+
+.testimony-card h4 {
+  margin-bottom: 15px;
+}
+
+.testimony-card p {
+  margin: 0;
+}
+
+.background-image-left {
+  top: 28%;
+  position: absolute;
+  bottom: 0;
+  width: 40%;
+  z-index: -4;
+}
