@@ -71,10 +71,10 @@ const Banner = () => {
                   </h1>
                   <p>
                     I am software developer who is driven by a passion for growth
-                    and leveraging technology to solve problems. I am competent in
-                    Javascript, Typescript, NestJS, Node.js, Express.js, React, HTML, Cascading Style Sheets (CSS), MongoDB and PostgreSQL. 
-                    I am confident in my ability to deliver
-                    innovative solutions and make your APIs as fast and reliable as possible.
+                    and leveraging technology to solve problems. 
+                    I have worked with top-tier companies such as Decagon Institute and Max. <br></br> 
+                    I am competent in Javascript, Typescript, NestJS, Node.js, Express.js, React, HTML, Cascading Style Sheets (CSS), MongoDB and PostgreSQL. 
+                    I am confident in my ability to deliver innovative solutions and make your APIs as fast and reliable as possible.
                   </p>
                   <a href="#connect" style={{ textDecoration: "none" }}>
                     <button>
