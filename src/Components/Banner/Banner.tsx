@@ -72,7 +72,7 @@ const Banner = () => {
                   <p>
                     I am software developer who is driven by a passion for growth
                     and leveraging technology to solve problems. 
-                    I have worked with top-tier companies such as <strong>Decagon Institute</strong>and <strong>MAX</strong>. 
+                    I have worked with top-tier companies such as <strong>Decagon Institute</strong> and <strong>MAX</strong>. 
                     <br></br>
                     <br></br>
                     I am competent in Javascript, Typescript, NestJS, Node.js, Express.js, React, HTML, Cascading Style Sheets (CSS), MongoDB and PostgreSQL. 
